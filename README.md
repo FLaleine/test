@@ -1,4 +1,5 @@
 # test
 ## sub-title
 
-`git push` envoi les modifs local en ligne
+- `git commit`permet de décrire une modification
+- `git push` envoi les modifs local en ligne
